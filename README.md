@@ -25,9 +25,9 @@
 </p>
 
 
-| 💾 **Backend** | 🌐 **Web Frameworks** | 🎨 **Frontend** | 🖥 **GUI** |
-|----------------|------------------------|----------------|-------------|
-| Java, Python, PHP, C# | Java (Spring Boot), Python (Flask, Django) | JavaScript, React, TailwindCSS | Python (CustomTkinter) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> **Web Frameworks** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> **Bases de Datos** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **DevOps / CI-CD** | 🖥 **GUI / Otros** |
+|----------------|----------------|----------------|----------------|----------------|----------------|
+| Java, Python, PHP, C# | Java (Spring Boot), Python (Flask, Django) | JavaScript, TypeScript, React, TailwindCSS, HTML5, CSS | PostgreSQL, MySQL, SQL | Docker, Docker Compose, GitHub Actions, GitLab, SonarQube | Python (CustomTkinter, Kivy), CSV, Pandas, UML |
 
 
 ---
