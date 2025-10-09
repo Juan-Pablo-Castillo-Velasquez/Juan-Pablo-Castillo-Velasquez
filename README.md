@@ -27,21 +27,20 @@ Desarrollador de Software | Soporte Técnico | Automatización
 
 ---
 <p align="center">
-  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Juan-Pablo-Castillo-Velasquez?style=flat&label=&logo=github&color=181717&logoColor=white" />
-  </a>
+  <!-- Lenguajes más usados -->
+  <img src="https://img.shields.io/github/languages/top/Juan-Pablo-Castillo-Velasquez?style=flat&logo=programminglanguages&color=2b7a78" alt="Lenguajes más usados" />
   &nbsp;&nbsp;
-  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img alt="Repositorios Públicos" src="https://img.shields.io/github/repos/Juan-Pablo-Castillo-Velasquez?style=flat&label=&logo=github&color=555555&logoColor=white" />
-  </a>
+  <!-- Contribuciones totales -->
+  <img src="https://img.shields.io/badge/Contribuciones-activas-brightgreen?style=flat&logo=github&logoColor=white" alt="Contribuciones" />
   &nbsp;&nbsp;
-  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez?tab=stars" target="_blank" rel="noopener noreferrer">
-    <img alt="Estrellas Totales" src="https://img.shields.io/github/stars/Juan-Pablo-Castillo-Velasquez?style=flat&label=&logo=github&color=f1c40f&logoColor=white" />
-  </a>
+  <!-- Racha de commits (sin número) -->
+  <img src="https://img.shields.io/badge/Commit_Streak-🔥-orange?style=flat&logo=git" alt="Commit Streak" />
   &nbsp;&nbsp;
-  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez" target="_blank" rel="noopener noreferrer">
-    <img alt="Último Commit" src="https://img.shields.io/github/last-commit/Juan-Pablo-Castillo-Velasquez/main?style=flat&label=&logo=git&color=2c3e50&logoColor=white" />
-  </a>
+  <!-- Repositorios públicos -->
+  <img src="https://img.shields.io/github/repos/Juan-Pablo-Castillo-Velasquez?style=flat&logo=github&color=3b82f6&logoColor=white" alt="Repos públicos" />
+  &nbsp;&nbsp;
+  <!-- Seguidores -->
+  <img src="https://img.shields.io/github/followers/Juan-Pablo-Castillo-Velasquez?style=flat&logo=github&color=6b7280&logoColor=white" alt="Seguidores" />
 </p>
 
 ### 📫 Contacto
