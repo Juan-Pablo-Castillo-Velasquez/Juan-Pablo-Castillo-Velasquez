@@ -33,17 +33,10 @@ Desarrollador de Software | Soporte Técnico | Automatización
 
 ---
 
-### 📊 GitHub Stats
+| 📊 GitHub Stats | 📈 Lenguajes más usados |
+| --- | --- |
+| ![Juan Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=radical) |
 
-![Juan Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=radical)
-
----
-
-### 📈 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=radical)
-
----
 
 ### 📫 Contacto
 
