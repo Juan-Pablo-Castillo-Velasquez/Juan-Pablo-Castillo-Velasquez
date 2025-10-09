@@ -32,7 +32,12 @@ Desarrollador de Software | Soporte Técnico | Automatización
 
 ### 📫 Contacto
 
-<p aling="center">
-  [![Gmail Badge](https://img.shields.io/badge/-juanpablo2007k@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanpablo2007k@gmail.com)  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-Pablo-Castillo-Velasquez)
+<p align="center">
+  <a href="mailto:juanpablo2007k@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-juanpablo2007k@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
 </p>
