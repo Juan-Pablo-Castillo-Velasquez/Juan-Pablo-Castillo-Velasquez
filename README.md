@@ -26,15 +26,9 @@ Desarrollador de Software | Soporte Técnico | Automatización
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
-<p align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/Juan-Pablo-Castillo-Velasquez?style=social)](https://github.com/Juan-Pablo-Castillo-Velasquez)
-  &nbsp;
-  ![GitHub repo count](https://img.shields.io/github/repos/Juan-Pablo-Castillo-Velasquez?style=flat-square)
-  &nbsp;
-  ![GitHub stars](https://img.shields.io/github/stars/Juan-Pablo-Castillo-Velasquez?style=flat-square)
-  &nbsp;
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Juan-Pablo-Castillo-Velasquez/main?style=flat-square)
-</p>
+| Seguidores GitHub | Repositorios Públicos | Estrellas Totales | Último Commit |
+|-------------------|----------------------|------------------|---------------|
+| [![GitHub followers](https://img.shields.io/github/followers/Juan-Pablo-Castillo-Velasquez?style=social)](https://github.com/Juan-Pablo-Castillo-Velasquez) | ![GitHub repo count](https://img.shields.io/github/repos/Juan-Pablo-Castillo-Velasquez?style=flat-square) | ![GitHub stars](https://img.shields.io/github/stars/Juan-Pablo-Castillo-Velasquez?style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/Juan-Pablo-Castillo-Velasquez/main?style=flat-square) |
 
 ### 📫 Contacto
 
