@@ -9,7 +9,7 @@
 
 
 
-### ⚙️ Tecnologías & Herramientas
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" style="margin: 10px;"/>
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 Mi Actividad en GitHub
+
 
 <div align="center">
 
@@ -62,7 +62,6 @@
 
 ---
 
-### 📬 Conecta Conmigo
 
 <p align="center">
   <a href="mailto:juanpablo2007k@gmail.com"><img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
