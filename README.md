@@ -11,16 +11,7 @@
 
 ---
 
-### 🧠 Mis Especialidades
 
-| Área             | Tecnologías / Frameworks                   |
-|------------------|-------------------------------------------|
-| **Backend**      | Java (Spring Boot), Python, PHP, C#       |
-| **Frontend**     | JavaScript, React, TailwindCSS            |
-| **Bases de Datos** | MySQL, PostgreSQL                        |
-| **DevOps / CI/CD**| Docker, GitHub Actions, GitLab            |
-
----
 
 ### ⚙️ Tecnologías & Herramientas
 
@@ -36,6 +27,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" style="margin: 10px;"/>
 </p>
+
+
+| Área             | Tecnologías / Frameworks                   |
+|------------------|-------------------------------------------|
+| **Backend**      | Java (Spring Boot), Python, PHP, C#       |
+| **Frontend**     | JavaScript, React, TailwindCSS            |
+| **Bases de Datos** | MySQL, PostgreSQL                        |
+| **DevOps / CI/CD**| Docker, GitHub Actions, GitLab            |
 
 ---
 
