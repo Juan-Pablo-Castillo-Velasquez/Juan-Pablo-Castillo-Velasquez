@@ -17,7 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
