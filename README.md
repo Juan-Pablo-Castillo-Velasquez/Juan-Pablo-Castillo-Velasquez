@@ -26,17 +26,9 @@ Desarrollador de Software | Soporte Técnico | Automatización
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
-
-| Backend                   | Web Frameworks                   | Frontend                             | GUI                         |
-| -------------------------| --------------------------------| -----------------------------------| ---------------------------|
-| Java, Python, C#         | Django, Flask, Laravel, PHP ,Next,spring boot     | React, JavaScript, Tailwind, Bootstrap | CustomTkinter (Python), JavaFX |
-
----
-
-| 📊 GitHub Stats | 📈 Lenguajes más usados |
+| 📊 GitHub Activity Graph | 🏆 GitHub Trophies |
 | --- | --- |
-| ![Juan Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=radical) |
-
+| ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Juan-Pablo-Castillo-Velasquez&theme=react-dark&area=true) | [![trophy](https://github-profile-trophy.vercel.app/?username=Juan-Pablo-Castillo-Velasquez&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) |
 
 ### 📫 Contacto
 
