@@ -1,11 +1,10 @@
-# 👋 ¡Hola! Soy Juan Pablo Castillo Velásquez
+# 👋 Hola, soy Juan Pablo Castillo Velásquez
 
-**Desarrollador de Software & Soporte Técnico**  
-Java · JavaScript · Python · PHP · C# · SQL · Docker · GitHub Actions · React · TailwindCSS · VSCode · SonarQube
+Desarrollador de Software | Soporte Técnico | Automatización
 
 ---
 
-## 🚀 Tecnologías & Herramientas
+### 🚀 Tecnologías & Herramientas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -28,37 +27,25 @@ Java · JavaScript · Python · PHP · C# · SQL · Docker · GitHub Actions · 
 
 ---
 
-## 💼 Experiencia
-
-**Learning Technologies Group (Colombia) S.A.S.**  
-Jul 2023 – Ene 2024  
-- Desarrollo de plugins para Moodle  
-- Automatización con SQL y Excel  
-- Testing BDD y unitario  
-- Control de versiones con GitHub  
-- Soporte técnico y atención a usuarios con Jira
-
-**Konecta (Multienlace)**  
-May 2024 – Dic 2024  
-- Diagnóstico y solución de fallas en telecomunicaciones  
-- Gestión de conectividad (DMZ, IP, UPnP)  
-- Enfoque en KPIs y satisfacción del usuario
+| Backend                   | Web Frameworks                   | Frontend                             | GUI                         |
+| -------------------------| --------------------------------| -----------------------------------| ---------------------------|
+| Java, Python, C#         | Django, Flask, Laravel, PHP      | React, JavaScript, Tailwind, Bootstrap | CustomTkinter (Python), JavaFX |
 
 ---
 
-## 🎓 Educación
+### 📊 GitHub Stats
 
-- **SENA CGM** – Análisis y Desarrollo de Software (2025–2027)  
-- **SENA CSG** – Técnico en Desarrollo de Software (2022–2024)  
-- **Colegio Integrado de Fontibón** – Bachillerato (2018–2023)  
+![Juan Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Contacto
+### 📈 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=radical)
+
+---
+
+### 📫 Contacto
 
 [![Gmail Badge](https://img.shields.io/badge/-juanpablo2007k@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanpablo2007k@gmail.com)  
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-Pablo-Castillo-Velasquez)
-
----
-
-> “La tecnología es mejor cuando une a las personas y simplifica sus vidas.” – JP
