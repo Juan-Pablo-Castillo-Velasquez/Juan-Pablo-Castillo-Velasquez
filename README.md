@@ -1,106 +1,63 @@
-<h1 align="center">👋 ¡Hola! Soy Juan Pablo Castillo Velásquez</h1>
+# 👋 ¡Hola! Soy Juan Pablo Castillo Velásquez
 
-<p align="center">
-  Desarrollador de Software & Soporte Técnico 👨‍💻 | Java · JS · Python · SQL · Docker · GitHub Actions
-</p>
-
-<p align="center">
-  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez">
-    <img src="https://img.shields.io/badge/GitHub-Juan--Pablo--Castillo--Velasquez-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:juanpablo2007k@gmail.com">
-    <img src="https://img.shields.io/badge/Email-juanpablo2007k@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Desarrollador de Software & Soporte Técnico**  
+Java · JavaScript · Python · PHP · C# · SQL · Docker · GitHub Actions · React · TailwindCSS · VSCode · SonarQube
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Tecnologías & Herramientas
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Bases de datos -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-000000?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## 💼 Experiencia
 
-- **Learning Technologies Group (Colombia) S.A.S.**  
-  `Jul 2023 – Ene 2024`  
-  Soporte técnico, desarrollo de plugins para Moodle, automatización de reportes SQL + Excel, testing BDD/unitario, uso de GitHub y Jira.
+**Learning Technologies Group (Colombia) S.A.S.**  
+Jul 2023 – Ene 2024  
+- Desarrollo de plugins para Moodle  
+- Automatización con SQL y Excel  
+- Testing BDD y unitario  
+- Control de versiones con GitHub  
+- Soporte técnico y atención a usuarios con Jira
 
-- **Konecta (Multienlace)**  
-  `May 2024 – Dic 2024`  
-  Diagnóstico de fallas en telecomunicaciones, conectividad (IP, DMZ, UPnP), soporte al cliente, enfoque en KPIs.
-
----
-
-## 📚 Educación
-
-- 🎓 **SENA CGM** – Análisis y Desarrollo de Software (2025 – 2027)  
-- 👨‍💻 **SENA CSG** – Técnico en Desarrollo de Software (2022 – 2024)  
-- 🏫 **Colegio Integrado de Fontibón** – Bachillerato (2018 – 2023)
+**Konecta (Multienlace)**  
+May 2024 – Dic 2024  
+- Diagnóstico y solución de fallas en telecomunicaciones  
+- Gestión de conectividad (DMZ, IP, UPnP)  
+- Enfoque en KPIs y satisfacción del usuario
 
 ---
 
-## 💬 Habilidades personales
+## 🎓 Educación
 
-- ✅ Trabajo en equipo
-- ✅ Comunicación efectiva
-- ✅ Resolución de problemas
-- ✅ Automatización de tareas
-- ✅ Documentación técnica clara
+- **SENA CGM** – Análisis y Desarrollo de Software (2025–2027)  
+- **SENA CSG** – Técnico en Desarrollo de Software (2022–2024)  
+- **Colegio Integrado de Fontibón** – Bachillerato (2018–2023)  
 
 ---
 
 ## 📫 Contacto
 
-- 📧 [juanpablo2007k@gmail.com](mailto:juanpablo2007k@gmail.com)
-- 🌐 [GitHub Profile](https://github.com/Juan-Pablo-Castillo-Velasquez)
-- 📍 Bogotá, Colombia
+[![Gmail Badge](https://img.shields.io/badge/-juanpablo2007k@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanpablo2007k@gmail.com)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-Pablo-Castillo-Velasquez)
 
 ---
 
