@@ -6,25 +6,25 @@ Desarrollador de Software | Soporte Técnico | Automatización
 
 ### 🚀 Tecnologías & Herramientas
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/java/ED8B00" alt="Java" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/csharp/68217A" alt="C#" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/sqlite/005C84" alt="SQL" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VSCode" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" alt="SonarQube" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" alt="ESLint" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" style="border-radius:50%;" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="TailwindCSS" width="40" height="40" style="border-radius:50%;" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-000000?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 ---
 
 | Backend                   | Web Frameworks                   | Frontend                             | GUI                         |
