@@ -25,12 +25,10 @@
 </p>
 
 
-| Área             | Tecnologías / Frameworks                   |
-|------------------|-------------------------------------------|
-| **Backend**      | Java (Spring Boot), Python, PHP, C#       |
-| **Frontend**     | JavaScript, React, TailwindCSS            |
-| **Bases de Datos** | MySQL, PostgreSQL                        |
-| **DevOps / CI/CD**| Docker, GitHub Actions, GitLab            |
+| 💾 **Backend** | 🌐 **Web Frameworks** | 🎨 **Frontend** | 🖥 **GUI** |
+|----------------|------------------------|----------------|-------------|
+| Java, Python, PHP, C# | Java (Spring Boot), Python (Flask, Django) | JavaScript, React, TailwindCSS | Python (CustomTkinter) |
+
 
 ---
 
