@@ -29,7 +29,7 @@ Desarrollador de Software | Soporte Técnico | Automatización
 
 | Backend                   | Web Frameworks                   | Frontend                             | GUI                         |
 | -------------------------| --------------------------------| -----------------------------------| ---------------------------|
-| Java, Python, C#         | Django, Flask, Laravel, PHP      | React, JavaScript, Tailwind, Bootstrap | CustomTkinter (Python), JavaFX |
+| Java, Python, C#         | Django, Flask, Laravel, PHP ,Next,spring boot     | React, JavaScript, Tailwind, Bootstrap | CustomTkinter (Python), JavaFX |
 
 ---
 
