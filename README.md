@@ -9,7 +9,6 @@
 
 
 
-<h3 align="center">⚙️ Tecnologías & Herramientas</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
