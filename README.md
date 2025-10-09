@@ -1,84 +1,106 @@
-# 👋 ¡Hola! Soy Juan Pablo Castillo Velásquez
+<h1 align="center">👋 ¡Hola! Soy Juan Pablo Castillo Velásquez</h1>
 
-🎯 **Desarrollador de Software & Soporte Técnico**  
-🧠 Tecnólogo en Desarrollo de Software con +1 año de experiencia resolviendo problemas técnicos, desarrollando soluciones a medida, automatizando procesos y optimizando plataformas educativas. Me apasiona la tecnología, el aprendizaje constante y el trabajo en equipo.
+<p align="center">
+  Desarrollador de Software & Soporte Técnico 👨‍💻 | Java · JS · Python · SQL · Docker · GitHub Actions
+</p>
 
----
-
-## 🧰 Tecnologías y Herramientas
-
-### 💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=sqlite&logoColor=white)
-
-### 🧪 Bases de datos y Big Data
-- SQL Server, Access, Excel, Big Data básico
-
-### 🐳 DevOps y control de versiones
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### 🔧 Otras herramientas
-- Jira · Moodle · Excel avanzado · Automatización con scripts  
-- Sistemas operativos: **Windows** / **Linux**
+<p align="center">
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez">
+    <img src="https://img.shields.io/badge/GitHub-Juan--Pablo--Castillo--Velasquez-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:juanpablo2007k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-juanpablo2007k@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Experiencia Profesional
+## 🚀 Tecnologías y Herramientas
 
-### 🖥️ **Learning Technologies Group (Colombia) S.A.S.**  
-🗓️ *Julio 2023 – Enero 2024*  
-**Soporte técnico y desarrollo de software**
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-- Atención a usuarios en sede, resolución de incidencias en < 2h
-- Desarrollo de 3+ plugins personalizados para Moodle
-- Automatización de reportes con SQL y Excel (↑25% eficiencia)
-- Testing BDD y unitario
-- Gestión de versiones con GitHub y seguimiento con Jira
+<p align="center">
+  <!-- Bases de datos -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- DevOps / Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+</p>
 
 ---
 
-### 🖧 **Konecta (Multienlace)**  
-🗓️ *Mayo 2024 – Diciembre 2024*  
-**Soporte técnico y atención a clientes**
+## 📊 GitHub Stats
 
-- Diagnóstico y solución de fallas en telecomunicaciones y PBX
-- Gestión de conectividad: DMZ, IP, UPnP, puertos
-- Enfoque en KPIs de satisfacción y tiempos de respuesta
-
----
-
-## 🎓 Educación
-
-- 🎓 **SENA CGM** – *Análisis y Desarrollo de Software* (2025 – 2027)  
-- 👨‍💻 **SENA CSG** – *Técnico en Desarrollo de Software* (2022 – 2024)  
-- 🏫 **Colegio Integrado de Fontibón** – *Bachillerato* (2018 – 2023)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🧠 Habilidades blandas
+## 💼 Experiencia
 
-- ✅ Trabajo en equipo  
-- ✅ Comunicación clara  
-- ✅ Responsabilidad  
-- ✅ Resolución de problemas  
-- ✅ Aprendizaje autónomo
+- **Learning Technologies Group (Colombia) S.A.S.**  
+  `Jul 2023 – Ene 2024`  
+  Soporte técnico, desarrollo de plugins para Moodle, automatización de reportes SQL + Excel, testing BDD/unitario, uso de GitHub y Jira.
+
+- **Konecta (Multienlace)**  
+  `May 2024 – Dic 2024`  
+  Diagnóstico de fallas en telecomunicaciones, conectividad (IP, DMZ, UPnP), soporte al cliente, enfoque en KPIs.
+
+---
+
+## 📚 Educación
+
+- 🎓 **SENA CGM** – Análisis y Desarrollo de Software (2025 – 2027)  
+- 👨‍💻 **SENA CSG** – Técnico en Desarrollo de Software (2022 – 2024)  
+- 🏫 **Colegio Integrado de Fontibón** – Bachillerato (2018 – 2023)
+
+---
+
+## 💬 Habilidades personales
+
+- ✅ Trabajo en equipo
+- ✅ Comunicación efectiva
+- ✅ Resolución de problemas
+- ✅ Automatización de tareas
+- ✅ Documentación técnica clara
 
 ---
 
 ## 📫 Contacto
 
-- 📧 **Email**: [juanpablo2007k@gmail.com](mailto:juanpablo2007k@gmail.com)
-- 📱 **Teléfono**: 3228121704
-- 🏠 **Dirección**: CR 104B #16H-42, Bogotá, Colombia
-- 🌐 **GitHub**: [github.com/Juan-Pablo-Castillo-Velasquez](https://github.com/Juan-Pablo-Castillo-Velasquez)
+- 📧 [juanpablo2007k@gmail.com](mailto:juanpablo2007k@gmail.com)
+- 🌐 [GitHub Profile](https://github.com/Juan-Pablo-Castillo-Velasquez)
+- 📍 Bogotá, Colombia
 
 ---
 
