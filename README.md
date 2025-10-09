@@ -6,61 +6,35 @@
 
 ## 👨‍💻 Mis Especialidades
 
-<table align="center" style="width: 80%; margin-bottom: 1.5rem;">
-  <thead>
-    <tr>
-      <th align="left">Área</th>
-      <th align="left">Tecnologías / Frameworks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Backend</b></td>
-      <td>Java (Spring Boot), Python, PHP, C#</td>
-    </tr>
-    <tr>
-      <td><b>Frontend</b></td>
-      <td>JavaScript, React, TailwindCSS</td>
-    </tr>
-    <tr>
-      <td><b>Bases de Datos</b></td>
-      <td>MySQL, PostgreSQL, SQL</td>
-    </tr>
-    <tr>
-      <td><b>DevOps / CI/CD</b></td>
-      <td>Docker, Docker Compose, GitHub Actions, GitLab</td>
-    </tr>
-    <tr>
-      <td><b>Control de Calidad</b></td>
-      <td>SonarQube, ESLint</td>
-    </tr>
-  </tbody>
-</table>
+| Área             | Tecnologías / Frameworks                   |
+|------------------|-------------------------------------------|
+| **Backend**      | Java (Spring Boot), Python, PHP, C#       |
+| **Frontend**     | JavaScript, React, TailwindCSS             |
+| **Bases de Datos** | MySQL, PostgreSQL, SQL                    |
+| **DevOps / CI/CD**| Docker, Docker Compose, GitHub Actions, GitLab |
+| **Control Calidad** | SonarQube, ESLint                        |
 
 ---
 
 ## 🚀 Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="#" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <br/><br/>
+  <a href="#" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="SQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <br/><br/>
+  <a href="#" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="TailwindCSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <br/><br/>
+  <a href="#" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="GitHub Actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
+  <a href="#" title="GitLab"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50" style="border-radius:50%; margin:0 10px"/></a>
 </p>
 
 ---
@@ -86,10 +60,9 @@
 
 <p align="center">
   <a href="mailto:juanpablo2007k@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-juanpablo2007k@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="40" height="40" style="border-radius:50%; margin: 0 15px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="border-radius:50%; margin: 0 15px;" />
   </a>
 </p>
