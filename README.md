@@ -54,5 +54,5 @@
 <p align="center">
   <a href="mailto:juanpablo2007k@gmail.com"><img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/juan-pablo-castillo-86542a214/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/juan-pablo-castillo-86542a214/](https://www.linkedin.com/in/juan-pablo-castillo-velasquez-86542a214/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
