@@ -49,7 +49,21 @@
 </div>
 
 ---
+## Certificaciones
 
+### Programación
+- Diplomado en Fundamentos de Programación con Python  
+  Universidad Sergio Arboleda — 160 horas (2023)
+   <a href="https://drive.google.com/drive/folders/1fSdRjukdjQCIwG7EaRJF5IUzlef6y2Td"> Ver certificado</a>
+
+- Diplomado en Fundamentos de Programación con Java  
+  Universidad Sergio Arboleda — 160 horas (2023)
+    <a href="https://drive.google.com/drive/folders/1fSdRjukdjQCIwG7EaRJF5IUzlef6y2Td"> Ver certificado</a>
+
+### Inglés
+- KITE English Test — Kaplan International  
+  CEFR Global Level: B1
+    <a href="https://drive.google.com/drive/u/0/folders/1fSdRjukdjQCIwG7EaRJF5IUzlef6y2Td"> Ver certificado</a>
 
 <p align="center">
   <a href="mailto:juanpablo2007k@gmail.com"><img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
