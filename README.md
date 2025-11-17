@@ -64,7 +64,7 @@
 - KITE English Test — Kaplan International  
   CEFR Global Level: B1
     <a href="https://drive.google.com/drive/u/0/folders/1fSdRjukdjQCIwG7EaRJF5IUzlef6y2Td"> Ver certificado</a>
-
+---
 <p align="center">
   <a href="mailto:juanpablo2007k@gmail.com"><img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
