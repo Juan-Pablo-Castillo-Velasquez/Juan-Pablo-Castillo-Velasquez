@@ -1,72 +1,125 @@
-<h1 align="center"> Hola, soy Juan Pablo Castillo Velásquez</h1>
-
-<p align="center">
-  <b>Desarrollador de Software | Soporte Técnico | Automatización</b><br><br>
- 
-</p>
-
----
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65" style="margin:12px; border-radius:50%;"/>
-</p>
-
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> **Web Frameworks** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> **Bases de Datos** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **DevOps / CI-CD** | 🖥 **GUI / Otros** |
-|----------------|----------------|----------------|----------------|----------------|----------------|
-| Java, Python, PHP, C# | Java (Spring Boot), Python (Flask, Django) | JavaScript, TypeScript, React, TailwindCSS, HTML5, CSS | PostgreSQL, MySQL, SQL | Docker, Docker Compose, GitHub Actions, GitLab, SonarQube | Python (CustomTkinter, Kivy), CSV, Pandas, UML |
-
-
----
-
-
-
 <div align="center">
 
-|  Estadísticas |  Lenguajes Más Usados |
-|-----------------|-------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=radical&hide_border=true" height="165"/> |
+```
+╔══════════════════════════════════════════════════════════╗
+║         JUAN PABLO CASTILLO VELÁSQUEZ                    ║
+║         Software Developer · Backend · Architecture      ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Microservices+%7C+Layered+Architecture+%7C+Docker;Java+Spring+Boot+%7C+Python+%7C+PostgreSQL;Clean+Code+%7C+CI%2FCD+%7C+REST+APIs)](https://git.io/typing-svg)
 
 </div>
 
 ---
-## Certificaciones
 
-### Programación
-- Diplomado en Fundamentos de Programación con Python  
-  Universidad Sergio Arboleda — 160 horas (2023)
-   <a href="https://drive.google.com/file/d/1Tdrgsab5EeE4p2CqL7P2nfFiH_TfJD_R/view?usp=sharing"> Ver certificado</a>
+## `$ whoami`
 
-- Diplomado en Fundamentos de Programación con Java  
-  Universidad Sergio Arboleda — 160 horas (2023)
-    <a href="https://drive.google.com/file/d/1U9NKq3cKCl3_HjUlFwKM0bWgpX_c1DvW/view?usp=sharing"> Ver certificado</a>
+Backend developer focused on **scalable, maintainable software**. I design systems using **N-layer architecture**, **MVC patterns**, and **microservices** orchestrated with Docker Compose. I care about clean code, clear boundaries between responsibilities, and pipelines that actually work.
 
-### Inglés
-- KITE English Test — Kaplan International  
-  CEFR Global Level: B1
-    <a href="https://drive.google.com/file/d/12YHI065jVXo_cjAISbhjtjT_mmzD7bkE/view?usp=sharing"> Ver certificado</a>
+```
+[ Core Strengths ]
+  ├── Architecture     → N-Layer · MVC · Microservices · REST APIs
+  ├── Backend          → Java (Spring Boot) · Python (Flask, Django) · PHP · C#
+  ├── Frontend         → React · TypeScript · TailwindCSS
+  ├── Databases        → PostgreSQL · MySQL
+  ├── DevOps           → Docker · Docker Compose · GitHub Actions · GitLab CI
+  └── Data             → Pandas · CSV automation · Reporting
+```
+
 ---
-<p align="center">
-  <a href="mailto:juanpablo2007k@gmail.com"><img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/juan-pablo-castillo-velasquez-86542a214/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+
+## `$ architecture --patterns`
+
+### 🏗 N-Layer Architecture
+Strict separation of **Presentation → Business Logic → Data Access**, making each layer independently testable and replaceable. Dependency injection keeps it all wired without tight coupling.
+
+### ⚙ Microservices + Docker Compose
+Independent services with well-defined contracts. Each service owns its data and exposes a clean API. Docker Compose for local orchestration, GitHub Actions or GitLab CI for deployment pipelines.
+
+### 🎯 MVC Pattern
+Applied in Spring Boot and Django projects — controllers stay thin, models carry the domain, views or serializers handle output. Predictable, navigable, team-friendly.
+
+---
+
+## `$ tech-stack --list`
+
+<div align="center">
+
+| Layer | Stack |
+|---|---|
+| **Backend** | Java · Python · PHP · C# |
+| **Frameworks** | Spring Boot · Django · Flask |
+| **Frontend** | React · TypeScript · TailwindCSS · HTML5 |
+| **Databases** | PostgreSQL · MySQL |
+| **DevOps** | Docker · Docker Compose · GitHub Actions · GitLab · SonarQube |
+| **Data / Automation** | Pandas · CSV · CustomTkinter · Kivy |
+| **Standards** | UML · REST · Clean Code · SOLID |
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,django,postgres,mysql,docker,github,gitlab,php,cs,html,css,tailwind&theme=dark" />
+
+</div>
+
+---
+
+## `$ git stats --user`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Juan-Pablo-Castillo-Velasquez&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `$ certifications --verified`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  [CERT] Diplomado · Fundamentos de Programación con Python      │
+│         Universidad Sergio Arboleda · 160h · 2023               │
+│         → https://drive.google.com/file/d/1Tdrgsab5EeE4p2CqL7P2nfFiH_TfJD_R/view
+│                                                                  │
+│  [CERT] Diplomado · Fundamentos de Programación con Java        │
+│         Universidad Sergio Arboleda · 160h · 2023               │
+│         → https://drive.google.com/file/d/1U9NKq3cKCl3_HjUlFwKM0bWgpX_c1DvW/view
+│                                                                  │
+│  [LANG] KITE English Test · Kaplan International · CEFR B1      │
+│         → https://drive.google.com/file/d/12YHI065jVXo_cjAISbhjtjT_mmzD7bkE/view
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `$ contact --open-to-work`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/juanpablo2007k%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanpablo2007k@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-castillo-velasquez-86542a214/)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan-Pablo-Castillo-Velasquez)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Architecture is not about the code. It's about the decisions."
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=Juan-Pablo-Castillo-Velasquez&color=00d9ff&style=flat-square&label=profile+views)
+
+</div>
