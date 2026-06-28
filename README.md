@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Juan Pablo Castillo Velásquez</h1>
+<h1 align="center"> Hola, soy Juan Pablo Castillo Velásquez</h1>
 
 <p align="center">
   <b>Desarrollador de Software | Soporte Técnico | Automatización</b><br><br>
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-| 📈 Estadísticas | 🛠 Lenguajes Más Usados |
+|  Estadísticas |  Lenguajes Más Usados |
 |-----------------|-------------------------|
 | <img src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&theme=radical&hide_border=true" height="165"/> |
 
