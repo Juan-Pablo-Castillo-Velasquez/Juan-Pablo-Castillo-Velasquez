@@ -83,9 +83,9 @@
 
 | | Certificación | Institución | Duración | Año | Verificar |
 |---|---|---|---|---|---|
-| 🐍 | **Diplomado · Fundamentos de Programación con Python** | Universidad Sergio Arboleda | 160h | 2023 | [Ver certificado ↗](https://drive.google.com/file/d/1Tdrgsab5EeE4p2CqL7P2nfFiH_TfJD_R/view) |
-| ☕ | **Diplomado · Fundamentos de Programación con Java** | Universidad Sergio Arboleda | 160h | 2023 | [Ver certificado ↗](https://drive.google.com/file/d/1U9NKq3cKCl3_HjUlFwKM0bWgpX_c1DvW/view) |
-| 🌐 | **KITE English Test** | Kaplan International | — | — | [Ver certificado ↗](https://drive.google.com/file/d/12YHI065jVXo_cjAISbhjtjT_mmzD7bkE/view) |
+| 1| **Diplomado · Fundamentos de Programación con Python** | Universidad Sergio Arboleda | 160h | 2023 | [Ver certificado ↗](https://drive.google.com/file/d/1Tdrgsab5EeE4p2CqL7P2nfFiH_TfJD_R/view) |
+|  2| **Diplomado · Fundamentos de Programación con Java** | Universidad Sergio Arboleda | 160h | 2023 | [Ver certificado ↗](https://drive.google.com/file/d/1U9NKq3cKCl3_HjUlFwKM0bWgpX_c1DvW/view) |
+| 3 | **KITE English Test** | Kaplan International | — | — | [Ver certificado ↗](https://drive.google.com/file/d/12YHI065jVXo_cjAISbhjtjT_mmzD7bkE/view) |
 
 </div>
 
