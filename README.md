@@ -105,7 +105,7 @@ formación:    Tecnología en Análisis y Desarrollo de Software — SENA
 </div>
 
 <br>
-
+<!--
 ## `05` Proyectos destacados
 
 <div align="center">
@@ -117,7 +117,7 @@ formación:    Tecnología en Análisis y Desarrollo de Software — SENA
 *Agrega más tarjetas repitiendo el bloque de arriba y cambiando el nombre del repo — puedes poner hasta 6.*
 
 </div>
-
+-->
 <br>
 
 ## `06` Certificaciones
