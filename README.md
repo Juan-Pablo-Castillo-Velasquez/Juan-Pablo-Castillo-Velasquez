@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Microservicios+%7C+Arquitectura+N-Layer+%7C+Docker+Compose;Spring+Boot+%7C+Django+%7C+APIs+REST;Clean+Code+%7C+CI%2FCD+%7C+Patr%C3%B3n+MVC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Microservicios+%7C+Arquitectura+N-Layer+%7C+Docker+Compose;Spring+Boot+%7C+FastAPI+%7C+APIs+REST;Clean+Code+%7C+CI%2FCD+%7C+Patr%C3%B3n+MVC)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,16 +20,35 @@
 ## `01` Sobre mí
 
 ```yaml
-nombre:       Juan Pablo Castillo Velásquez
-rol:          Backend Developer & Software Architecture
-enfoque:      Microservicios · N-Layer · Clean Code · SOLID
-idiomas:      Español (nativo) · English (CEFR B1)
-formación:    Tecnología en Análisis y Desarrollo de Software — SENA
+nombre:         Juan Pablo Castillo Velásquez
+rol:            Backend Developer & Software Architecture
+enfoque:        Microservicios · N-Layer · Clean Code · SOLID
+disponibilidad: Práctica / pasantía — Desarrollo de Software
+idiomas:        Español (nativo) · English (CEFR B1)
+formación:      Tecnología en Análisis y Desarrollo de Software — SENA
 ```
+
+> Construyo software con arquitecturas por capas y microservicios pensando en escalabilidad desde el día uno.
+> Actualmente desarrollo **AleckTours**, una plataforma full-stack de agencia de viajes (React + TypeScript / FastAPI + MySQL / Docker), aplicando en un proyecto real lo que aprendo en formación.
 
 <br>
 
-## `02` Actividad y estadísticas
+## `02` Proyecto destacado
+
+<div align="center">
+
+<a href="https://github.com/Juan-Pablo-Castillo-Velasquez/proyectoalectoursDocker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Pablo-Castillo-Velasquez&repo=proyectoalectoursDocker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7B1E3A&text_color=c9d1d9&border_radius=10"/>
+</a>
+
+**AleckTours** · Plataforma de agencia de viajes con arquitectura desacoplada:
+frontend en React/TypeScript + Vite/Tailwind, backend en FastAPI con capas router → service → repository, autenticación completa (registro, login, recuperación de contraseña) y entorno reproducible con Docker Compose.
+
+</div>
+
+<br>
+
+## `03` Actividad y estadísticas
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=7B1E3A&text_color=c9d1d9&include_all_commits=true&border_radius=10"/>
@@ -37,16 +56,16 @@ formación:    Tecnología en Análisis y Desarrollo de Software — SENA
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Juan-Pablo-Castillo-Velasquez&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B1E3A&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&border_radius=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Juan-Pablo-Castillo-Velasquez&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Juan-Pablo-Castillo-Velasquez&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://streak-stats.demolab.com?user=Juan-Pablo-Castillo-Velasquez&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B1E3A&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&border_radius=10"/>
 </div>
 
 <br>
 
-## `03` Arquitectura & enfoque
+## `04` Arquitectura & enfoque
 
 <div align="center">
 
@@ -55,13 +74,13 @@ formación:    Tecnología en Análisis y Desarrollo de Software — SENA
 | 🧱 **N-Layer** | Separación estricta de responsabilidades con inyección de dependencias |
 | 🔗 **Microservicios** | Cada servicio es dueño de sus datos y expone contratos REST claros |
 | 🐳 **Docker Compose** | Orquestación local reproducible, integrada con pipelines CI/CD |
-| 🎯 **MVC** | Aplicado en Spring Boot y Django — controllers delgados, lógica en el dominio |
+| 🎯 **MVC** | Aplicado en Spring Boot y FastAPI — controllers delgados, lógica en el dominio |
 
 </div>
 
 <br>
 
-## `04` Stack técnico
+## `05` Stack técnico
 
 <div align="center">
 
@@ -69,21 +88,21 @@ formación:    Tecnología en Análisis y Desarrollo de Software — SENA
 <br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks**
 <br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Frontend**
 <br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Bases de datos**
 <br>
@@ -94,30 +113,14 @@ formación:    Tecnología en Análisis y Desarrollo de Software — SENA
 <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 **Data & scripts**
 <br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-1B7EBB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-<br>
-<!--
-## `05` Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/Juan-Pablo-Castillo-Velasquez/proyectoalectoursDocker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Pablo-Castillo-Velasquez&repo=proyectoalectoursDocker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7B1E3A&text_color=c9d1d9&border_radius=10"/>
-</a>
-
-*Agrega más tarjetas repitiendo el bloque de arriba y cambiando el nombre del repo — puedes poner hasta 6.*
-
-</div>
--->
 <br>
 
 ## `06` Certificaciones
@@ -139,5 +142,11 @@ formación:    Tecnología en Análisis y Desarrollo de Software — SENA
 <br>
 
 <div align="center">
+
+### 📬 ¿Hablamos?
+
+Abierto a oportunidades de práctica/pasantía en desarrollo backend o full-stack.
+Escríbeme por [LinkedIn](https://www.linkedin.com/in/juan-pablo-castillo-velasquez-86542a214/) o [correo](mailto:juanpablo2007k@gmail.com) — respondo rápido.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B1E3A,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
