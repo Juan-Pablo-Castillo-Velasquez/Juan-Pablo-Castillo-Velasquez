@@ -110,11 +110,11 @@ formación:    Tecnología en Análisis y Desarrollo de Software — SENA
 
 <div align="center">
 
-<a href="https://github.com/Juan-Pablo-Castillo-Velasquez/AleckTours">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Pablo-Castillo-Velasquez&repo=AleckTours&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7B1E3A&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Juan-Pablo-Castillo-Velasquez/proyectoalectoursDocker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Pablo-Castillo-Velasquez&repo=proyectoalectoursDocker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7B1E3A&text_color=c9d1d9&border_radius=10"/>
 </a>
 
-*Reemplaza `AleckTours` por el nombre exacto de tus repos para fijar más tarjetas — puedes poner hasta 6.*
+*Agrega más tarjetas repitiendo el bloque de arriba y cambiando el nombre del repo — puedes poner hasta 6.*
 
 </div>
 
