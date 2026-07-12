@@ -1,6 +1,8 @@
-# Juan Pablo Castillo Velásquez
+<div align="center">
 
-Desarrollador de software en formación, enfocado en backend y arquitectura de aplicaciones.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7B1E3A&height=180&section=header&text=Juan%20Pablo%20Castillo%20Vel%C3%A1squez&fontSize=36&fontColor=00D9FF&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20·%20Backend&descAlignY=58&descSize=16&descColor=c9d1d9" width="100%"/>
+
+</div>
 
 **Contacto:** [LinkedIn](https://www.linkedin.com/in/juan-pablo-castillo-velasquez-86542a214/) · [juanpablo2007k@gmail.com](mailto:juanpablo2007k@gmail.com)
 
@@ -52,3 +54,9 @@ Repositorio: [proyectoalectoursDocker](https://github.com/Juan-Pablo-Castillo-Ve
 ---
 
 Abierto a oportunidades de práctica o pasantía en desarrollo de software. Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/juan-pablo-castillo-velasquez-86542a214/) o [correo](mailto:juanpablo2007k@gmail.com).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B1E3A,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
