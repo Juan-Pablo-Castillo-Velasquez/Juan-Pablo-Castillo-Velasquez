@@ -45,11 +45,7 @@ Repositorio: [proyectoalectoursDocker](https://github.com/Juan-Pablo-Castillo-Ve
 
 ## Certificaciones
 
-| Certificación | Institución | Duración | Año |
-|---|---|---|---|
-| Fundamentos de Programación con Python | Universidad Sergio Arboleda | 160h | 2023 |
-| Fundamentos de Programación con Java | Universidad Sergio Arboleda | 160h | 2023 |
-| KITE English Test (Inglés B1) | Kaplan International | — | — |
+<div align="center"> | # | Certificación | Institución | Duración | Año | ||:---:|:---|:---|:---:|:---:|:---:|| 1 | **Fundamentos de Programación con Python** | Universidad Sergio Arboleda | 160h | 2023 | [🔗 Ver](https://drive.google.com/file/d/1Tdrgsab5EeE4p2CqL7P2nfFiH_TfJD_R/view) || 2 | **Fundamentos de Programación con Java** | Universidad Sergio Arboleda | 160h | 2023 | [🔗 Ver](https://drive.google.com/file/d/1U9NKq3cKCl3_HjUlFwKM0bWgpX_c1DvW/view) || 3 | **KITE English Test** | Kaplan International | — | — | [🔗 Ver](https://drive.google.com/file/d/12YHI065jVXo_cjAISbhjtjT_mmzD7bkE/view) | ![Python](https://img.shields.io/badge/Python-Diplomado_160h-3776AB?style=flat-square&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-Diplomado_160h-007396?style=flat-square&logo=openjdk&logoColor=white)![English](https://img.shields.io/badge/English-CEFR_B1-4CAF50?style=flat-square&logo=duolingo&logoColor=white) </div>
 
 ---
 
