@@ -51,8 +51,8 @@ frontend en React/TypeScript + Vite/Tailwind, backend en FastAPI con capas route
 ## `03` Actividad y estadísticas
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=7B1E3A&text_color=c9d1d9&include_all_commits=true&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juan-Pablo-Castillo-Velasquez&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=7B1E3A&text_color=c9d1d9&include_all_commits=true&border_radius=10&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Pablo-Castillo-Velasquez&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </div>
 
 <div align="center">
