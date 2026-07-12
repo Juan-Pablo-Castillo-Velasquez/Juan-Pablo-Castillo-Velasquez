@@ -35,7 +35,7 @@ Repositorio: [proyectoalectoursDocker](https://github.com/Juan-Pablo-Castillo-Ve
 
 ## Arquitectura
 
-Estructura en capas aplicada en el backend de FastAPI, separando la entrada de peticiones, la lógica de negocio y el acceso a datos.
+Aplico principios de arquitectura en capas al construir aplicaciones backend, separando la entrada de peticiones, la lógica de negocio y el acceso a datos.
 
 ```mermaid
 flowchart LR
@@ -51,7 +51,7 @@ flowchart LR
 | Servicio | Contiene la lógica de negocio |
 | Repositorio | Gestiona el acceso a la base de datos |
 
-Entorno de desarrollo orquestado con Docker Compose para que sea reproducible en cualquier máquina.
+Este enfoque facilita mantener el código organizado, probarlo por partes y escalarlo a medida que crece el proyecto.
 
 ---
 
